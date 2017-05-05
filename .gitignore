@@ -1,3 +1,6 @@
 *.pyc
 gh_pages
+examples/data
+**/.DS_Store
+**/~*
 
